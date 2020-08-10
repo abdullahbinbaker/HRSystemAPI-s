@@ -1,0 +1,24 @@
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+F:\hrsystemPractiseFolder\HRT2Linq\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\user\Desktop\New folder (3)\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.deps.json
+C:\Users\user\Desktop\New folder (3)\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\user\Desktop\New folder (3)\Infrastructure\bin\Debug\netstandard2.1\Infrastructure.pdb
+C:\Users\user\Desktop\New folder (3)\Infrastructure\bin\Debug\netstandard2.1\Core.dll
+C:\Users\user\Desktop\New folder (3)\Infrastructure\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.dll
+C:\Users\user\Desktop\New folder (3)\Infrastructure\obj\Debug\netstandard2.1\Infrastructure.pdb

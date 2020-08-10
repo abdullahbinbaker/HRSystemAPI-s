@@ -1,0 +1,18 @@
+F:\hrsystemPractiseFolder\HRT2Linq\Core\bin\Debug\netstandard2.1\Core.deps.json
+F:\hrsystemPractiseFolder\HRT2Linq\Core\bin\Debug\netstandard2.1\Core.dll
+F:\hrsystemPractiseFolder\HRT2Linq\Core\bin\Debug\netstandard2.1\Core.pdb
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.dll
+F:\hrsystemPractiseFolder\HRT2Linq\Core\obj\Debug\netstandard2.1\Core.pdb
+C:\Users\user\Desktop\New folder (3)\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\user\Desktop\New folder (3)\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\user\Desktop\New folder (3)\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\user\Desktop\New folder (3)\Core\obj\Debug\netstandard2.1\Core.pdb
